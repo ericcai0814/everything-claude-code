@@ -1,3 +1,12 @@
+> **About this fork:** I forked this repo to contribute upstream bug fixes.
+> My merged contributions to the upstream project (`affaan-m/everything-claude-code`):
+> - [PR #161](https://github.com/affaan-m/everything-claude-code/pull/161) — `fix: preserve content after frontmatter in parse_instinct_file()` (merged)
+> - [PR #171](https://github.com/affaan-m/everything-claude-code/pull/171) — `fix: sync plugin.json version with latest tag` (merged)
+>
+> These are hand-written contributions (no AI generation). The rest of this README is the upstream maintainer's documentation, kept as-is.
+
+---
+
 **Language:** English | [繁體中文](docs/zh-TW/README.md)
 
 # Everything Claude Code
